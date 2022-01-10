@@ -2,10 +2,10 @@
 .ipynb_checkpoints/
 
 LINEMOD/
-VODdevkit/
+VOCdevkit/
 *.tar
-singleshotpose_master/.gitignore
-singleshotpose_master/README.md
+./singleshotpose_master/.gitignore
+./singleshotpose_master/README.md
 .bashrc
 label_file_creation.md
 DS_Store/
