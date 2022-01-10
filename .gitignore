@@ -4,8 +4,8 @@
 LINEMOD/
 VOCdevkit/
 *.tar
-./singleshotpose_master/.gitignore
-./singleshotpose_master/README.md
+./singleshotpose-master/.gitignore
+./singleshotpose-master/README.md
 .bashrc
 label_file_creation.md
 DS_Store/
